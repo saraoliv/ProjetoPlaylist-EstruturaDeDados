@@ -1,0 +1,30 @@
+Garota de Ipanema;Carlos;9.5;Classico atemporal
+Evidencias;Ana;10.0;Muito emocionante
+Lose Yourself;Pedro;9.8;Motivadora
+Bohemian Rhapsody;Rafael;10.0;Perfeita
+Shape of You;Julia;8.5;Muito boa
+Blinding Lights;Lucas;9.0;Viciante
+Smells Like Teen Spirit;Marcos;9.7;Rock raiz
+Billie Jean;Fernanda;9.9;Top demais
+Hotel California;Joao;9.6;Clássico
+Hey Jude;Maria;9.4;Linda
+Rolling in the Deep;Bruna;9.3;Forte
+Someone Like You;Paula;9.2;Triste
+Thinking Out Loud;Carlos;9.1;Romântica
+Bad Guy;Ana;8.8;Diferente
+Halo;Lucas;9.5;Linda voz
+Uptown Funk;Pedro;9.0;Animada
+Despacito;Joao;8.7;Gruda na cabeça
+Havana;Julia;8.9;Legal
+Levitating;Bruna;9.2;Boa vibe
+Thunder;Marcos;8.6;Energia
+Radioactive;Rafael;9.4;Top
+Numb;Lucas;9.8;Emocionante
+In the End;Carlos;9.7;Clássica
+Believer;Ana;9.3;Motivadora
+Perfect;Maria;9.6;Linda
+Senorita;Pedro;8.5;Boa
+Roar;Julia;8.9;Empoderadora
+Firework;Bruna;9.1;Inspiradora
+Counting Stars;Joao;9.0;Boa
+Apologize;Lucas;9.2;Triste

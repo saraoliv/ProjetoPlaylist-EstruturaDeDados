@@ -1,0 +1,49 @@
+import java.util.ArrayList;
+
+public class Musica {
+    private String titulo;
+    private String artista;
+    private String genero;
+    private int anoLancamento;
+    private ArrayList<Avaliacao> avaliacoes;
+
+    public Musica(String titulo, String artista, String genero, int anoLancamento) {
+        this.titulo = titulo;
+        this.artista = artista;
+        this.genero = genero;
+        this.anoLancamento = anoLancamento;
+        this.avaliacoes = new ArrayList<>();
+    }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public String getGenero() {
+        return genero;
+    }
+
+    public void adicionarAvaliacao(Avaliacao a) {
+        avaliacoes.add(a);
+    }
+
+    public double calcularMedia() {
+        if (avaliacoes.isEmpty()) return 0;
+
+        double soma = 0;
+        for (Avaliacao a : avaliacoes) {
+            soma += a.getNota();
+        }
+        return soma / avaliacoes.size();
+    }
+
+    public ArrayList<Avaliacao> getAvaliacoes() {
+        return avaliacoes;
+    }
+
+    @Override
+    public String toString() {
+        return titulo + " | " + artista + " | " + genero + " | " + anoLancamento +
+               " | Média: " + String.format("%.2f", calcularMedia());
+    }
+}

@@ -1,0 +1,30 @@
+Garota de Ipanema;Tom Jobim;Bossa Nova;1962
+Evidencias;Chitaozinho e Xororo;Sertanejo;1990
+Lose Yourself;Eminem;Hip-Hop;2002
+Bohemian Rhapsody;Queen;Rock;1975
+Shape of You;Ed Sheeran;Pop;2017
+Blinding Lights;The Weeknd;Pop;2020
+Smells Like Teen Spirit;Nirvana;Rock;1991
+Billie Jean;Michael Jackson;Pop;1982
+Hotel California;Eagles;Rock;1976
+Hey Jude;The Beatles;Rock;1968
+Rolling in the Deep;Adele;Pop;2010
+Someone Like You;Adele;Pop;2011
+Thinking Out Loud;Ed Sheeran;Pop;2014
+Bad Guy;Billie Eilish;Pop;2019
+Halo;Beyonce;Pop;2008
+Uptown Funk;Bruno Mars;Funk;2014
+Despacito;Luis Fonsi;Latino;2017
+Havana;Camila Cabello;Pop;2018
+Levitating;Dua Lipa;Pop;2020
+Thunder;Imagine Dragons;Rock;2017
+Radioactive;Imagine Dragons;Rock;2012
+Numb;Linkin Park;Rock;2003
+In the End;Linkin Park;Rock;2000
+Believer;Imagine Dragons;Rock;2017
+Perfect;Ed Sheeran;Pop;2017
+Senorita;Shawn Mendes;Pop;2019
+Roar;Katy Perry;Pop;2013
+Firework;Katy Perry;Pop;2010
+Counting Stars;OneRepublic;Pop;2013
+Apologize;OneRepublic;Pop;2007
