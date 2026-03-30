@@ -1,4 +1,4 @@
-Garota de Ipanema;Carlos;9.5;Classico 
+Garota de Ipanema;Carlos;9.5;Classico atemporal
 Evidencias;Ana;10.0;Muito emocionante
 Lose Yourself;Pedro;9.8;Motivadora
 Bohemian Rhapsody;Rafael;10.0;Perfeita
